@@ -13,7 +13,7 @@ function App() {
             alt="Ask UI Logo"
             className="logo"
           />
-          <h2 className="sidebar-title">Ask UI</h2>
+          <h2 className="sidebar-title">Ask</h2>
         </div>
         {/* Modes */}
         <div className="modes">
